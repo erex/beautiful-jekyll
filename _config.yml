@@ -23,12 +23,12 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Online workshop: "aboutme"
   Resources:
     - Distance sampling software project: "http://distancesampling.org"
     - Broken link for bibliography: "http://www.markdowntutorial.com/"
-    - Broken link for workshop landing page: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+    - Upcoming workshops: "https://www.creem.st-andrews.ac.uk/intermediate-level-distance-sampling-training-workshop-2018/"
+#  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -44,7 +44,7 @@ avatar: "/img/avatar-icon.png"
 
 navbar-col: "#4286f4"
 navbar-text-col: "#fcf820"
-navbar-children-col: "#F5F5F5"
+navbar-children-col: "#b6c1ef"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -64,7 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Distance development team
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
