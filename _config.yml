@@ -7,7 +7,7 @@
 url: "http://erex.github.io"
 baseurl: ""
 
-remote_theme: mmistakes/so-simple-theme 
+theme: jekyll-theme-cayman 
 
 
 # If you are building a GitHub project page then use these settings:
